@@ -1,0 +1,23 @@
+From hugo.arregui at gmail.com  Wed Apr  4 05:52:33 2012
+From: hugo.arregui at gmail.com (Hugo Arregui)
+Date: Wed, 4 Apr 2012 00:52:33 -0300
+Subject: [Wifi-radar-dev] support for network name with dots
+Message-ID: <CAEHGjGPsosGP5Wg+E6eTdq7B80MPb7o-PCcVrt1=ooYfhWkb0g@mail.gmail.com>
+
+Hi,
+
+i'm found a problem when I try to connect to a network with dots in
+the name. The fix is really simple, so I'm sendig a patch attached.
+
+Hope it helps someone else.
+
+Cheers,
+Hugo
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: dotsupport.patch
+Type: application/octet-stream
+Size: 760 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wifi-radar-dev/attachments/20120404/b7c7b4fb/attachment.obj>
+
